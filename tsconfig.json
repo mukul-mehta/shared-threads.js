@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "strictPropertyInitialization": false,
+    "allowSyntheticDefaultImports": true,
+    "rootDir": "src",
+    "declaration": true,
+    "esModuleInterop": true,
+    "target": "es2015",
+    "module": "ES2020",
+    "lib": ["es2015"],
+    "strict": false,
+    "moduleResolution": "node",
+    "typeRoots": ["./src/env.d.ts", "node_modules/@types"],
+    "sourceMap": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "importHelpers": true,
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true,
+    "noImplicitAny": false,
+    "baseUrl": ".",
+    "types": ["node"]
+  },
+}
+
