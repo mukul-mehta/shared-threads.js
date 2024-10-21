@@ -25,7 +25,7 @@ To use this library, you must:
 
 ```typescript
 // worker.ts
-import { expose, exposeShared } from '@workduck-io/mex-threads.js/worker'
+import { expose, exposeShared } from 'shared-threads/worker'
 
 import sha256 from 'js-sha256'
 import { nanoid } from 'nanoid'

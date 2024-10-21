@@ -19,6 +19,7 @@
     "skipDefaultLibCheck": true,
     "noImplicitAny": false,
     "baseUrl": ".",
+    "outDir": "dist",
     "types": ["node"]
   },
 }

@@ -1,5 +1,5 @@
 {
-  "name": "shared-threads.js",
+  "name": "shared-threads",
   "version": "0.0.1",
   "description": "Shared Workers as simple as a function call; Fork of threads.js",
   "license": "MIT",
